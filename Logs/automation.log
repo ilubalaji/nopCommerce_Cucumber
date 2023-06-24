@@ -1,0 +1,71 @@
+2023-06-24 12:51:02,578  INFO [main] nopCommerce:163 - *************** Entering Customer details ***************
+2023-06-24 19:02:41,600  INFO [main] nopCommerce:163 - *************** Entering Customer details ***************
+2023-06-24 19:08:04,090  INFO [main] nopCommerce:163 - *************** Entering Customer details ***************
+2023-06-24 19:30:47,479  INFO [main] nopCommerce:70 - *************** Launching Browser ***************
+2023-06-24 19:30:47,528  INFO [main] nopCommerce:77 - *************** Opening URL ***************
+2023-06-24 19:30:49,491  INFO [main] nopCommerce:85 - *************** Entering UserName and Password ***************
+2023-06-24 19:30:50,143  INFO [main] nopCommerce:93 - *************** Clicking on Login button ***************
+2023-06-24 19:30:58,082  INFO [main] nopCommerce:140 - *************** Started add a new customer info ***************
+2023-06-24 19:30:58,086  INFO [main] nopCommerce:143 - *************** Dashboard page title validation ***************
+2023-06-24 19:30:58,102  INFO [main] nopCommerce:150 - *************** Clicking on Customers Menu ***************
+2023-06-24 19:31:01,227  INFO [main] nopCommerce:158 - *************** Clicking on Customers category ***************
+2023-06-24 19:31:05,061  INFO [main] nopCommerce:166 - *************** Clicking on Add new button ***************
+2023-06-24 19:31:06,968  INFO [main] nopCommerce:180 - *************** Entering Customer details ***************
+2023-06-24 19:31:15,898  INFO [main] nopCommerce:203 - *************** Clicking on Save button ***************
+2023-06-24 19:31:19,082  INFO [main] nopCommerce:210 - *************** Validating new customer added confirmation message ***************
+2023-06-24 19:31:19,519  INFO [main] nopCommerce:126 - *************** Closing the browser ***************
+2023-06-24 19:31:21,258  INFO [main] nopCommerce:70 - *************** Launching Browser ***************
+2023-06-24 19:31:21,261  INFO [main] nopCommerce:77 - *************** Opening URL ***************
+2023-06-24 19:31:22,401  INFO [main] nopCommerce:85 - *************** Entering UserName and Password ***************
+2023-06-24 19:31:22,775  INFO [main] nopCommerce:93 - *************** Clicking on Login button ***************
+2023-06-24 19:31:31,645  INFO [main] nopCommerce:140 - *************** Started add a new customer info ***************
+2023-06-24 19:31:31,646  INFO [main] nopCommerce:143 - *************** Dashboard page title validation ***************
+2023-06-24 19:31:31,658  INFO [main] nopCommerce:150 - *************** Clicking on Customers Menu ***************
+2023-06-24 19:31:34,775  INFO [main] nopCommerce:158 - *************** Clicking on Customers category ***************
+2023-06-24 19:31:38,794  INFO [main] nopCommerce:221 - *************** Started searching a existing Customer by Email ID ***************
+2023-06-24 19:31:42,307  INFO [main] nopCommerce:236 - *************** Validating existing Customer by giving Email ID ***************
+2023-06-24 19:31:42,416  INFO [main] nopCommerce:126 - *************** Closing the browser ***************
+2023-06-24 19:31:44,508  INFO [main] nopCommerce:70 - *************** Launching Browser ***************
+2023-06-24 19:31:44,511  INFO [main] nopCommerce:77 - *************** Opening URL ***************
+2023-06-24 19:31:45,584  INFO [main] nopCommerce:85 - *************** Entering UserName and Password ***************
+2023-06-24 19:31:45,994  INFO [main] nopCommerce:93 - *************** Clicking on Login button ***************
+2023-06-24 19:31:52,765  INFO [main] nopCommerce:140 - *************** Started add a new customer info ***************
+2023-06-24 19:31:52,766  INFO [main] nopCommerce:143 - *************** Dashboard page title validation ***************
+2023-06-24 19:31:52,780  INFO [main] nopCommerce:150 - *************** Clicking on Customers Menu ***************
+2023-06-24 19:31:55,901  INFO [main] nopCommerce:158 - *************** Clicking on Customers category ***************
+2023-06-24 19:31:59,691  INFO [main] nopCommerce:248 - *************** Started searching a existing Customer by Name ***************
+2023-06-24 19:32:03,198  INFO [main] nopCommerce:262 - *************** Validating existing Customer by giving Name ***************
+2023-06-24 19:32:03,406  INFO [main] nopCommerce:126 - *************** Closing the browser ***************
+2023-06-24 19:32:07,655  INFO [main] nopCommerce:70 - *************** Launching Browser ***************
+2023-06-24 19:32:07,657  INFO [main] nopCommerce:77 - *************** Opening URL ***************
+2023-06-24 19:32:09,667  INFO [main] nopCommerce:85 - *************** Entering UserName and Password ***************
+2023-06-24 19:32:10,041  INFO [main] nopCommerce:93 - *************** Clicking on Login button ***************
+2023-06-24 19:32:16,896  INFO [main] nopCommerce:102 - *************** Validating Login Credentials ***************
+2023-06-24 19:32:16,985  INFO [main] nopCommerce:111 - *************** Valid data/Login Successfull ***************
+2023-06-24 19:32:21,008  INFO [main] nopCommerce:119 - *************** Clicking on Logout button ***************
+2023-06-24 19:32:22,778  INFO [main] nopCommerce:102 - *************** Validating Login Credentials ***************
+2023-06-24 19:32:22,804  INFO [main] nopCommerce:111 - *************** Valid data/Login Successfull ***************
+2023-06-24 19:32:26,817  INFO [main] nopCommerce:126 - *************** Closing the browser ***************
+2023-06-24 19:44:25,603  INFO [main] nopCommerce:70 - *************** Launching Browser ***************
+2023-06-24 19:44:25,677  INFO [main] nopCommerce:77 - *************** Opening URL ***************
+2023-06-24 19:44:27,485  INFO [main] nopCommerce:85 - *************** Entering UserName and Password ***************
+2023-06-24 19:44:27,897  INFO [main] nopCommerce:93 - *************** Clicking on Login button ***************
+2023-06-24 19:44:40,363  INFO [main] nopCommerce:140 - *************** Started add a new customer info ***************
+2023-06-24 19:44:40,366  INFO [main] nopCommerce:143 - *************** Dashboard page title validation ***************
+2023-06-24 19:44:40,387  INFO [main] nopCommerce:150 - *************** Clicking on Customers Menu ***************
+2023-06-24 19:44:43,516  INFO [main] nopCommerce:158 - *************** Clicking on Customers category ***************
+2023-06-24 19:44:47,715  INFO [main] nopCommerce:166 - *************** Clicking on Add new button ***************
+2023-06-24 19:44:52,930  INFO [main] nopCommerce:180 - *************** Entering Customer details ***************
+2023-06-24 19:45:01,703  INFO [main] nopCommerce:203 - *************** Clicking on Save button ***************
+2023-06-24 19:45:03,874  INFO [main] nopCommerce:210 - *************** Validating new customer added confirmation message ***************
+2023-06-24 19:45:04,257  INFO [main] nopCommerce:126 - *************** Closing the browser ***************
+2023-06-24 19:45:06,007  INFO [main] nopCommerce:70 - *************** Launching Browser ***************
+2023-06-24 19:45:06,009  INFO [main] nopCommerce:77 - *************** Opening URL ***************
+2023-06-24 19:45:07,067  INFO [main] nopCommerce:85 - *************** Entering UserName and Password ***************
+2023-06-24 19:45:07,433  INFO [main] nopCommerce:93 - *************** Clicking on Login button ***************
+2023-06-24 19:45:20,275  INFO [main] nopCommerce:102 - *************** Validating Login Credentials ***************
+2023-06-24 19:45:20,360  INFO [main] nopCommerce:111 - *************** Valid data/Login Successfull ***************
+2023-06-24 19:45:24,385  INFO [main] nopCommerce:119 - *************** Clicking on Logout button ***************
+2023-06-24 19:45:26,046  INFO [main] nopCommerce:102 - *************** Validating Login Credentials ***************
+2023-06-24 19:45:26,061  INFO [main] nopCommerce:111 - *************** Valid data/Login Successfull ***************
+2023-06-24 19:45:30,089  INFO [main] nopCommerce:126 - *************** Closing the browser ***************
